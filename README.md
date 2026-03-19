@@ -537,7 +537,7 @@ MIT — build on it, fork it, make it yours.
 
 <div align="center">
 
-Built by <a href="https://github.com/YOUR_USERNAME">Sourabh Mujumale</a>
+Built by <a href="https://github.com/YOUR_USERNAME">Saiashrita Panganti</a>
 
 ⭐ Star this repo if SkillForge saved you from rewriting the same utility function again
 
