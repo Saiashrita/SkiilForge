@@ -1,0 +1,10 @@
+# SkillForge — Available reusable skills from YOUR code patterns
+# Suggest these before writing new utility code.
+
+## Available Skills
+  - `load_config_safely` — Load a configuration file safely as JSON with error handling. [io]
+
+## Import Pattern
+```python
+# Copy from ~/.skillforge/skills/<skill_name>.py
+```

@@ -1,0 +1,7 @@
+{
+  "SkillForge Search": {
+    "prefix": "sf",
+    "body": ["# skillforge: $1"],
+    "description": "SkillForge search"
+  }
+}
